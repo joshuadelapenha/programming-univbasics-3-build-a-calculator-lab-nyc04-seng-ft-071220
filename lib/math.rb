@@ -9,7 +9,7 @@ def subtraction(num1, num2)https://learn.co/tracks/fswd-prework-2-01/fswd-prewor
 end
 
 def division(num1, num2)
-  quotient = num1 / num 2
+  quotient = num1 / num2
   return quotient
 end
 
