@@ -3,7 +3,7 @@ def addition(num1, num2)
  return sum
 end
 
-def subtraction(num1, num2)
+def subtraction(num1, num2)https://learn.co/tracks/fswd-prework-2-01/fswd-prework-2-01-fswd-prework/fswd-prework-2-01-fswd-prework-programming-as-conversation-part-3-bundling-expressions-and-statements-into-methods/fswd-prework-2-01-fswd-prework-programming-as-conversation-part-3-bundling-expressions-and-statements-into-methods-build-a-calculator-lab#
   sumsubstract = num1 - num2
   return sumsubstract
 end
